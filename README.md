@@ -12,7 +12,6 @@ Developed for Covid19 Situation to get stats right from your phone.
 
 [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](#)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](#)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](#)
 
 
